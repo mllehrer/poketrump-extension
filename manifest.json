@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Poketrump",
+  "description": "This extension changes any mention of Donald Trump to the name of a random Pokémon.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "bellossom-icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
