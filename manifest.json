@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
     "name": "Poketrump",
-    "description": "Changes any mention of Donald Trump to the name of a random Pokémon. Makes you happy. This is a fan-made work from which I do not profit in any way. I do not own Pokémon. All Pokémon and related trademarks are owned by the Pokémon Company, Game Freak, Nintendo, etc. Thanks guys.",
+    "description": "Changes any mention of Donald Trump to the name of a random Pokémon. Not for commercial use.",
     "version": "0.1",
     "content_scripts": [
         {
